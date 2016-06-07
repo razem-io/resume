@@ -1,5 +1,8 @@
 build:
   image: asciidoctor/docker-asciidoctor
   commands:
-    - asciidoctor-pdf README.adoc
-
+    - asciidoctor-pdf resume.adoc
+publish:
+  github_release:
+    files: resume.pdf
+    checksum: sha256
