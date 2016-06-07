@@ -4,4 +4,4 @@ My current resume written in asciidoc. Releases are build and published by a sel
 
 image::https://github.razem.io/api/badges/razem-io/resume/status.svg[Build Status]
 
-include::resume.adoc[]
+include::resume.adoc[Github Version]
