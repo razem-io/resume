@@ -1,6 +1,8 @@
+:toc: right
 = Julian Liebl
 :published_at: 2016-06-06
 :hp-tags: resume, julian liebl, computer science, bachelor
+
 
 NOTE: Last updated on *{docdate}*
 
@@ -13,6 +15,8 @@ http://stackoverflow.com/users/1029251/julian-liebl?tab=profile[@ *stackoverflow
 http://codereview.stackexchange.com/users/90723/julian-liebl[@ *CODE REVIEW*] +
 http://www.slant.co/users/GG:113026379734376225768[@ *Slant*] +
 https://linkedin.com/in/julianliebl[@ *LinkedIn*], +
+
+
 
 == EXPERIENCE
 
@@ -90,7 +94,6 @@ Note:: A scholarship was granted by Siemens for the time of the education.
 The education had a strong focus on Java and Database development. Physics, Network Technology, Server Technology and Electrical Engineering where also briefed. 
 
 == TECHNOLOGY STACK
-=== Overview
 [align="center",cols="3",width="90%",options="header"]
 |====
 |[big]#*Development*#|[big]#*Language/Technology*#|[big]#*Framework*#

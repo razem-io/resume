@@ -1,0 +1,5 @@
+build:
+  image: asciidoctor/docker-asciidoctor
+  commands:
+    - asciidoctor-pdf README.adoc
+
