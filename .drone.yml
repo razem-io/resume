@@ -4,5 +4,6 @@ build:
     - asciidoctor-pdf resume.adoc
 publish:
   github_release:
+    api_key: $$GITHUB_TOKEN
     files: resume.pdf
     checksum: sha256
