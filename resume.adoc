@@ -24,14 +24,14 @@ https://linkedin.com/in/julianliebl[@ *LinkedIn*], +
 September 2014 - Today +
 Düsseldorf, Germany +
 
-A startup founded by an Professor who educated me back in the university. Its main focus is on e-commerce, with the goal to customize the shopping experience by smart predictions, and recommendations using BigData, Data Mining and Maschine Learning tools. +
+A startup company which was founded by my former professor. Its main focus is on e-commerce, with the goal to customize the shopping experience by smart predictions, and recommendations using BigData, Data Mining and Maschine Learning tools. +
 I got to work with many unknown and most of the times bleeding edge tools and frameworks. Optimzing code, writing algorithms from scratch, clustering of processing power and data analytics where the challanges I had to face during this job.
 
 === RockAByte GmbH
 November 2012 - September 2014 +
 Cologne, Germany
 
-An iOS and Android App factory with a strong focus on delivering native solutions. My prior experiences with WebOS, Haxe and Java lead to a focus on Android and native crossplatform development. During the time being there I worked on many different projects. Worth mentioning:
+An iOS and Android App factory with a strong focus on delivering native solutions. My prior experiences with WebOS, Haxe and Java lead to a focus on Android and native crossplatform development. During the time being I worked on many different projects. Worth mentioning:
 
 * Lufthansa (Android native)
 * Travian (Android native)
@@ -62,34 +62,30 @@ A little company founded by 6 students (including me) at the md.h Düsseldorf. D
 === LIEBL Software
 March 2008 - December 2010 +
 
-LIEBL Software was founded by myself when I got my first WebOS Phone the Palm Pre. I immediately started to develop Apps for this platform as I believed that web and app application development is the future. +
-I started with a stopwatch app which was downloaded over 70000+ times. Followed by a fitness app called intervalGym which was nominated for best WebOS Health APP of 2011 and continued with some other projects worth mentioning:
+LIEBL Software was founded by myself when I got my first WebOS Phone the Palm Pre. I immediately started to develop apps for this platform as I believed that web and app application development is the future. +
+I started with a stopwatch app called http://www.webosnation.com/titan-stopwatch[*Titan Stopwatch*] which was downloaded over 70000+ times. Followed by a fitness app called http://www.webosnation.com/intervalgym-interval-timer[*intervalGym*] which was nominated for best WebOS Health APP of 2011 and continued with some other projects worth mentioning:
 
-* http://www.webosnation.com/intervalgym-interval-timer[*intervalGym*]
-* http://www.webosnation.com/titan-stopwatch[*Titan Stopwatch*]
 * http://www.webosnation.com/frizzle-download-manager[*Frizzle Download Manager*]
 * http://www.webosnation.com/ucomicsbrowser-beta[*uComicsBrowser*]
 
 === Open Source
 March 2008 - today
 
-Open Source takes a very important place in my daily life. Without Open Source I would not be a developer today and would feel a lot less secure about my privacy. That is why many of my projects are distributed as open source software. I truly believe in the cause. I am also a person which actually reports bugs to open source projects and makes pull requests in order to fix them. Please have a look at my projects hosted at github, the projects I contributed to and the organisations where I am a member.
+Open Source takes a very important place in my daily life. Without Open Source I would not be a developer today and would feel a lot less secure about my privacy. That is why many of my projects are distributed as open source software. I truly believe in the cause. I am also a person who actually reports bugs to open source projects and makes pull requests in order to fix them. Please have a look at my projects hosted at github, the projects I contributed to and the organisations where I am a member.
 
 <<<
 == EDUCATION
 === Bachelor of Science in Gamedesign
 MD.H (Mediadesign Hochschule) in Düsseldorf, Germany 2010-2013
 
-[horizontal]
-Note:: Honored for "Best technical bachelor thesis of the year" at the university.
+NOTE: Honored for "Best technical bachelor thesis of the year" at the university.
 
 During the education I specialized on crossplatform and mobile development. Practical Projects where always implemented in teamwork with other students. Resulting in a strong understanding on how teams work and wich technologies work best to collaborate.
 
 === Industrialtechnologist with emphasis on Data Technology
 STA (Siemens Technik Akademie) in Munich, Germany 2008-2010
 
-[horizontal]
-Note:: A scholarship was granted by Siemens for the time of the education.
+NOTE: A scholarship was granted by Siemens for the time of the education.
 
 The education had a strong focus on Java and Database development. Physics, Network Technology, Server Technology and Electrical Engineering where also briefed.
 
