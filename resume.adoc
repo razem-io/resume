@@ -24,28 +24,28 @@ https://linkedin.com/in/julianliebl[@ *LinkedIn*], +
 September 2014 - Today +
 Düsseldorf, Germany +
 
-A startup company which was founded by my former professor. Its main focus is on e-commerce, with the goal to customize the shopping experience by smart predictions, and recommendations using BigData, Data Mining and Maschine Learning tools. +
-I got to work with many unknown and most of the times bleeding edge tools and frameworks. Optimzing code, writing algorithms from scratch, clustering of processing power and data analytics where the challanges I had to face during this job.
+A startup company which was founded by my former professor. Its main focus is on e-commerce, with the goal to customize the shopping experience by smart predictions, and recommendations using BigData, Data Mining and Machine Learning tools. +
+I got to work with many unknown and most of the times bleeding edge tools and frameworks. optimizing code, writing algorithms from scratch, clustering of processing power and data analytics were the challenges I had to face during this job.
 
 === RockAByte GmbH
 November 2012 - September 2014 +
 Cologne, Germany
 
-An iOS and Android App factory with a strong focus on delivering native solutions. My prior experiences with WebOS, Haxe and Java lead to a focus on Android and native crossplatform development. During the time being I worked on many different projects. Worth mentioning:
+An iOS and Android App development agency with a strong focus on delivering native solutions. My prior experiences with WebOS, Haxe and Java lead to a focus on Android and native crossplatform development. During the time at RockAByte I worked on many different projects. Worth mentioning:
 
 * Lufthansa (Android native)
 * Travian (Android native)
 * DAB Bank mobile (Android native)
 * Grohe (Android native)
 * Zen Shapes (Cocos2d-x cpp native on iOS and Android)
-* ToyRun (Haxe cpp native on iOS and Android).
+* ToyRun (Haxe cpp native on iOS and Android)
 
 === Siemens Enterprise Communications
 August 2011 - December 2013 +
 Witten, Germany +
 
-An enterprise telephony solutions company where I worked in the QA. There I learned to automate everything, with the help of an in house developed instrumentation testing framework written in pure Java. +
-My line of work covered maintaining the framework, writing new test cases, developing a module for the framework to test web frontends with selenium and developing automated tests of installations on different operating systems with vSphere and a java connector.
+An enterprise telephony solutions company where I worked in the QA department. There I learned to automate everything, with the help of an instrumentation testing framework developed in-house written in Java. +
+My line of work covered maintaining the framework, writing new test cases, developing a module for the framework to test web frontends with selenium and developing automated tests of installations on different operating systems with vSphere and a Java connector.
 
 === richtwert GmbH
 August 2011 - September 2012 +
@@ -57,12 +57,12 @@ A consulting company which also delivers custom solutions for each and every cus
 October 2010 - September 2012 +
 Düsseldorf, Germany +
 
-A little company founded by 6 students (including me) at the md.h Düsseldorf. During the education Northlight Games developed several functional complete games. Including https://razem.io/projects/northlight/GEAR/[*G.E.A.R*] which won the third price at the Game Forge Newcomer Award 2011 and https://razem.io/projects/northlight/hippoquest/[*HippoQuest*] which was a rather succesfull game (1000+ purchases) back in the day on WebOS.
+A small company founded by 6 students (including me) at the md.h Düsseldorf. During our studies Northlight Games developed several functional complete games. Including https://razem.io/projects/northlight/GEAR/[*G.E.A.R*] which won the third price at the Game Forge Newcomer Award 2011 and https://razem.io/projects/northlight/hippoquest/[*HippoQuest*] which was a rather succesfull game (1000+ purchases) back in the day on WebOS.
 
 === LIEBL Software
 March 2008 - December 2010 +
 
-LIEBL Software was founded by myself when I got my first WebOS Phone the Palm Pre. I immediately started to develop apps for this platform as I believed that web and app application development is the future. +
+LIEBL Software was founded by myself when I got my first WebOS Phone, the Palm Pre. I immediately started to develop apps for this platform as I believed that web and app application development is the future. +
 I started with a stopwatch app called http://www.webosnation.com/titan-stopwatch[*Titan Stopwatch*] which was downloaded over 70000+ times. Followed by a fitness app called http://www.webosnation.com/intervalgym-interval-timer[*intervalGym*] which was nominated for best WebOS Health APP of 2011 and continued with some other projects worth mentioning:
 
 * http://www.webosnation.com/frizzle-download-manager[*Frizzle Download Manager*]
@@ -80,81 +80,81 @@ MD.H (Mediadesign Hochschule) in Düsseldorf, Germany 2010-2013
 
 NOTE: Honored for "Best technical bachelor thesis of the year" at the university.
 
-During the education I specialized on crossplatform and mobile development. Practical Projects where always implemented in teamwork with other students. Resulting in a strong understanding on how teams work and wich technologies work best to collaborate.
+During the education I specialized on crossplatform and mobile development. Practical projects were always implemented in teamwork with other students, resulting in a strong understanding of how teams work and which technologies work best to collaborate.
 
 === Industrialtechnologist with emphasis on Data Technology
 STA (Siemens Technik Akademie) in Munich, Germany 2008-2010
 
 NOTE: A scholarship was granted by Siemens for the time of the education.
 
-The education had a strong focus on Java and Database development. Physics, Network Technology, Server Technology and Electrical Engineering where also briefed.
+The education had a strong focus on Java and Database development. Physics, Network Technology, Server Technology and Electrical Engineering were also thought.
 
 <<<
 == TECHNOLOGY
-[align="center",cols="3", options="header"]
+[align="center",cols="4", options="header"]
 |====
-|[big]#*Development*#|[big]#*Language/Technology*#|[big]#*Framework*#
-|Mobile|Java|Android SDK
-|Crossplatform|C++, Haxe, C#, Unreal Script|Cocos2d-x, OpenFL, Unity, Unreal Engine
-|Web|JavaScript, Coffee Script, Scala, Java|jQuery, Bootstrap, Semantic-UI, Scala-js, Play Framework, Spray
-|Testing|Scala, Java|JUnit, ScalaTest, specs2, Selenium, Android Instrumentation Tests Suite
-|Database|SQL, NoSQL, MapDB, Graph |MySQL, MariaDB, Cassandra, MongoDB, SQLite, Elasticsearch, MapDB, OrientDB
-|Machine Learning|Scala, Java|Apache Spark, Apache Spark MLlib
+|[big]#*Development*#|[big]#*Language/Technology*#|[big]#*Framework*#|[big]#*Experience*#
+|Mobile|Java|Android SDK|3 years
+|Crossplatform|C++, Haxe, C#, Unreal Script|Cocos2d-x, OpenFL, Unity, Unreal Engine|4 years
+|Web|JavaScript, Coffee Script, Scala, Java|jQuery, Bootstrap, Semantic-UI, Scala-js, Play Framework, Spray|3 years
+|Testing|Scala, Java|JUnit, ScalaTest, specs2, Selenium, Android Instrumentation Tests Suite|5 years
+|Database|SQL, NoSQL, MapDB, Graph |MySQL, MariaDB, Cassandra, MongoDB, SQLite, Elasticsearch, MapDB, OrientDB|2 years
+|Machine Learning|Scala, Java|Apache Spark, Apache Spark MLlib|2 years
 |====
 
 === Languages
 ==== Java
 Java is the language I grew up with. I started with teaching it to myself, followed by professional education in computer science classes at school, universities and online courses. Today I still learn new aspects of the language by reading books and reviewing code. +
-I am very comfortable with Java 6 to 8. I use this technology on a dialy basis. I should be okay with anything as long as it is written in pure Java. Things I still need to work on are dependecy injection, annotations and aspectj.
+I am very comfortable with Java 6 to 8. I use this technology on a daily basis. I should be okay with anything as long as it is written in pure Java. Things I still need to improve are dependency injection, annotations and aspectj.
 
 ==== Scala
-Java more then any other language stands for enterprise applications. So it is kinda hard for me to focus on other languages as those are often not in the scope of companies I work for. That is why Scala, Groovy, Kotlin and other java byte code compiling languages are a welcome job variation for me. +
-As Scala was designed by Martin Odersky I descided to give it a try. I fell in love with this language after reading the getting started guide. I am always amazed where I need 100 lines in java, I can solve it within 15 lines in Scala, while producing more readable code. +
-I would not call myself a Scala expert but I use this language daily for more then a year now. I am comfortable enough to use this language in production.
+Java more than any other language stands for enterprise applications. So it is hard for me to focus on other languages as those are often not in the scope of companies I work for. That is why Scala, Groovy, Kotlin and other Java byte code compiling languages are a welcome job diversion for me. +
+As Scala was designed by, Martin Odersky I decided to give it a try. I fell in love with this language. I am always amazed where I need 100 lines in java, I can solve it within 15 lines in Scala, while producing more readable code. +
+I would not call myself a Scala expert but I use this language daily for more than a year now. I am comfortable enough to use this language in production.
 
 ==== C++
-That language is sadly kind of my blind spot. I actually worked on some c++ only projects without a problem but I would not be able to see obvious bugs and performance optimisations on spot. That is not because I am not able to learn this language but because I haven't used it to often. However I like to be challanged. I am confident that I get a hold of it pretty quick.
+That language is sadly kind of my blind spot. I actually worked on some c++ only projects without a problem but I would not be able to see obvious bugs and performance optimisations on spot. That is not because I am not able to learn this language but because I haven't used it too often. However, I like to be challenged. I am confident that I get a hold of it pretty quickly.
 
 ==== JavaScript
-"Well first of all it is not typesafe!" That's what you will hear when someone asks me why we do not use JavaScript instead. However I have to acknowledge that JavaScript is one of the most used languages to date. In combination with NodeJS it can be a very powerful tool. When I was developing apps for WebOS I had to use it for 2 years. The apps worked bug free so it is possible to deliver quality without being typesafe. I have to admit that.
+"Well first of all it is not typesafe!" That's what you will hear when someone asks me why we do not use JavaScript instead. However, I have to acknowledge that JavaScript is one of the most used languages nowadays. In combination with NodeJS it can be a very powerful tool. When I was developing apps for WebOS I had to use it for 2 years. The apps worked bug free so it is possible to deliver quality without being typesafe.
 
 ==== Scala.js
 Actually not a programming language but a framework to write typesafe JavaScript code in Scala! I love it! For me this is the holy grail in web development. You can share code between client and server applications and use the power of Scala in JavaScript. That is amazing! Forget JavaScript ES6. I used Scala.js in production and it works flawlessly.
 
 ==== Haxe
-"Never heard of it." is what I hear far to often. Haxe is an amazing crossplatform programming language which compiles to native code for every platform it addresses with a single (!!!) codebase. I developed several crossplatform solutions with it, including:
+"Never heard of it." is what I hear far too often. Haxe is an amazing crossplatform programming language which compiles to native code for every platform it addresses with a single codebase. I developed several crossplatform solutions with it, including:
 
 * ToyRun (Flash, Html5, iOS, Android)
 * HippoQuest (Windows, Mac, Linux, Flash, Html5, iOS, Android, WebOS, FireOS, Blackberry, Tizen)
 * Toony (Windows, Mac, Linux, Flash, Html5, iOS, Android, WebOS, FireOS, Blackberry, Tizen)
 
 ==== C#
-Being very similar to the Java Syntax it is quite easy for me to write applications or games in C#. I used it alot for game development in the Unity Engine.
+Being very similar to the Java Syntax it is quite easy for me to write applications or games in C#. I used it a lot for game development in the Unity Engine.
 
 === Build Tools
 ==== Gradle
-During my time at RockAByte I got to work alot with the Gradle build tool because of the Android SDK. It is easy to learn, understand and works as expected. I like it!
+During my time at RockAByte I got to work a lot with the Gradle build tool because of the Android SDK. It is easy to learn, understand and works as expected.
 
 ==== SBT
-When programming in pure Scala it is almost impossible to use any other build tool. It is not as easy to understand as gradle but even more powerful. I use it whenever I can.
+When programming in Scala it is almost impossible to use any other build tool. It is not as easy to understand as gradle but even more powerful. I use it whenever I can.
 
 ==== Maven
-I am not a fan of xml and the command line options have a steep learning curve compared to gradle or sbt. I am ok with it but would always choose gradle or sbt over maven if I have the chance to.
+I am not a fan of xml and the command line options have a steep learning curve compared to gradle or sbt. I am okay with it but would always choose gradle or sbt over maven if I have the chance to.
 
 === Source Code Versioning
 ==== Git
 My favourite versioning system. I am comfortable with the command-line and GUI options out there. When I am in charge of a project I also use git flow as an addition.
 
 ==== Mercurial
-I used Mercurial before I started using git, because GitBucket had no support for git back then. It is actually quite easy to use. I like it!
+I used Mercurial before I started using git, because GitBucket had no support for git back then. It is actually quite easy to use.
 
 ==== Subversion
-I used it alot while working for Siemens. With a strict workflow it is easy to use even with large teams. However I would always favour Git or Mercurial if possible.
+I used it a lot while working for Siemens. With a strict workflow it is easy to use even with large teams. However I would always favour Git or Mercurial if possible.
 
 
-=== Integrated Development Enviroments
+=== Integrated Development Environments
 ==== IntelliJ
-It is the state of the art IDE for Scala, Java and Haxe. I use it everyday.
+It is the state of the art IDE for Scala, Java and Haxe. I use it every day.
 
 ==== Eclipse
-Unstable when not correctly configured, slow and a high memory usage made me switch from Eclipse to IntelliJ. It is still a very poewrfull IDE. I can handle it if needed.
+Unstable when not correctly configured, slow and a high memory usage made me switch from Eclipse to IntelliJ. It is still a very powerfull IDE. I can handle it if needed.
