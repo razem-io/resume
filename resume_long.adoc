@@ -89,6 +89,19 @@ NOTE: A scholarship was granted by Siemens for the time of the education.
 
 The education had a strong focus on Java and Database development. Physics, Network Technology, Server Technology and Electrical Engineering were also thought.
 
+=== CERTIFICATES
+- Bullats / Business Language Testing Service CEF/ALTE Level: C1/4
+- MCSA / Microsoft Certified Server Administrator (Windows Server 2003)
+- MCDST / Microsoft Certified Desktop Support Technician (Windows XP)
+
+== SOCIAL
+- Student council / _Class 10 - 13_
+- Class representative / _Class 11 - 13_
+- Head boy / _Class 12 - 13_
+- Member of the student government in Düsseldorf / _2005 - 2007_
+- Term speaker (Gamedesign)  MD.H Düsseldorf / _2010 - 2011_
+- Member of a multigeneration homes project / _2016 - Present_
+
 <<<
 == TECHNOLOGY
 [align="center",cols="4", options="header"]

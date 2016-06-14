@@ -1,9 +1,14 @@
 build:
   image: asciidoctor/docker-asciidoctor
   commands:
-    - asciidoctor-pdf resume.adoc
+    - asciidoctor-pdf resume_long.adoc
+    - asciidoctor-pdf resume_short.adoc
 publish:
   github_release:
     api_key: $$GITHUB_TOKEN
-    files: resume.pdf
+    files:
+      - resume_long.pdf
+      - resume_short.pdf
     checksum: sha256
+    when:
+      event: tag

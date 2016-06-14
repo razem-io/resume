@@ -1,0 +1,134 @@
+= Julian Liebl
+:published_at: 2016-06-06
+:hp-tags: resume, julian liebl, computer science, bachelor
+
+
+NOTE: Last updated on *{docdate}*
+
+== CONTACT
++49-163-7730387 +
+Macherscheider Str. 92, 41468 Neuss +
+mailto:mail@j-liebl.de[] +
+https://github.com/razem-io[@ *GitHub*], +
+http://stackoverflow.com/users/1029251/julian-liebl?tab=profile[@ *stackoverflow*], +
+http://codereview.stackexchange.com/users/90723/julian-liebl[@ *CODE REVIEW*] +
+http://www.slant.co/users/GG:113026379734376225768[@ *Slant*] +
+https://linkedin.com/in/julianliebl[@ *LinkedIn*], +
+
+== WORK EXPERIENCE
+
+*09/2014 - Present:* Flinsta GmbH & Co. KG - _Düsseldorf, Germany_
+
+I got to work with many unknown and most of the times bleeding edge Java/Scala tools and frameworks. optimizing code, writing algorithms from scratch, clustering of processing power and data analytics were the challenges I had to face during this job.
+
+*11/2012 - 09/2014:* RockAByte GmbH - _Cologne, Germany_
+
+My prior experiences with WebOS, Haxe and Java lead to a focus on Android and native crossplatform development. During the time at RockAByte I worked on many different projects.
+
+*08/2011 - 12/2013:* Siemens Enterprise Communications - _Witten, Germany_
+
+My line of work covered maintaining the custom test framework, writing new test cases, developing a module for the framework to test web frontends with selenium and developing automated tests of installations on different operating systems with vSphere and a Java connector.
+
+*08/2011 - 09/2012:* richtwert GmbH - _Düsseldorf, Germany_
+
+I maintained a project written in Java GWT.
+
+*08/2011 - 09/2012:* Northlight Games - _Düsseldorf, Germany_
+
+A small company founded by 6 students (including me) at the md.h Düsseldorf. During our studies Northlight Games developed several functional complete games.
+
+*03/2008 - 12/2010:* LIEBL Software - _Munich, Germany_
+
+LIEBL Software was founded by myself with a focus on WebOS App development.
+
+*03/2008 - Present:* Open Source
+
+Please have a look at my projects hosted at github, the projects I contributed to and the organisations where I am a member.
+
+== EDUCATION
+*09/2010 - 09/2013:* Bachelor of Science in Gamedesign +
+Mediadesign Hochschule - _Düsseldorf, Germany_
+
+*09/2008 - 09/2010* Industrialtechnologist with emphasis on Data Technology +
+Siemens Technik Akademie - _Munich, Germany_
+
+=== CERTIFICATES
+- Bullats / Business Language Testing Service CEF/ALTE Level: C1/4
+- MCSA / Microsoft Certified Server Administrator (Windows Server 2003)
+- MCDST / Microsoft Certified Desktop Support Technician (Windows XP)
+
+== SOCIAL
+- Student council / _Class 10 - 13_
+- Class representative / _Class 11 - 13_
+- Head boy / _Class 12 - 13_
+- Member of the student government in Düsseldorf / _2005 - 2007_
+- Term speaker (Gamedesign)  MD.H Düsseldorf / _2010 - 2011_
+- Member of a multigeneration homes project / _2016 - Present_
+
+== AWARDS
+- Honored for "Best technical bachelor thesis of the year" at the university.
+- Third place at the Game Forge Newcomer Award 2011.
+- Nominated for the best WebOS Health APP of 2011.
+- Placed 34 at Palm Top 100 Hot Apps Contest 2009.
+
+
+<<<
+== SKILLS AND TECHNICAL EXPERIENCE
+[cols="h,m,m,m"  options="header"]
+|===
+|
+|Best
+|Good
+|Medium
+
+|Programming Languages
+|Java 7 & 8, Scala 2.11, Haxe 2 & 3
+|Java 6, C#, JavaScript, CoffeeScript
+|C++
+
+|Databases
+|SQL, MongoDB, Elasticsearch, MapDB, OrientDB
+|Redis
+|Cassandra
+
+|Operating Systems
+|Linux (arch and debian), macOS, Windows, Android
+|Linux (red hat)
+|iOS
+
+|IDEs / Editors
+|IntelliJ IDEA, Eclipse, Atom, Nano
+|Emacs, Sublime 2 & 3
+|vi, vim
+
+|Platforms
+|Mobile (Android, Cross-Platform), Server Backend, Desktop
+|Web/REST
+|Web Frontend
+
+|Build Tools
+|Gradle, SBT
+|
+|Maven, Ant, Makefiles
+
+|Version Control
+|Git
+|Mercurial, SVN
+|
+
+|Collaboration
+|Confluence, JIRA, Redmine, Slack
+|Gitlab, Trac
+|
+
+|Continuous Integration
+|Jenkins, Drone, Docker
+|Gitlab CI
+|
+
+|Languages
+|German, English
+|
+|French
+
+|===
