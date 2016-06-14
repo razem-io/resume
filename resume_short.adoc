@@ -5,7 +5,7 @@
 
 NOTE: Last updated on *{docdate}*
 
-== CONTACT
+=== CONTACT
 +49-163-7730387 +
 Macherscheider Str. 92, 41468 Neuss +
 mailto:mail@j-liebl.de[] +
@@ -15,7 +15,7 @@ http://codereview.stackexchange.com/users/90723/julian-liebl[@ *CODE REVIEW*] +
 http://www.slant.co/users/GG:113026379734376225768[@ *Slant*] +
 https://linkedin.com/in/julianliebl[@ *LinkedIn*], +
 
-== WORK EXPERIENCE
+=== WORK EXPERIENCE
 
 *09/2014 - Present:* Flinsta GmbH & Co. KG - _Düsseldorf, Germany_
 
@@ -45,19 +45,19 @@ LIEBL Software was founded by myself with a focus on WebOS App development.
 
 Please have a look at my projects hosted at github, the projects I contributed to and the organisations where I am a member.
 
-== EDUCATION
+=== EDUCATION
 *09/2010 - 09/2013:* Bachelor of Science in Gamedesign +
 Mediadesign Hochschule - _Düsseldorf, Germany_
 
 *09/2008 - 09/2010* Industrialtechnologist with emphasis on Data Technology +
 Siemens Technik Akademie - _Munich, Germany_
 
-=== CERTIFICATES
+==== CERTIFICATES
 - Bullats / Business Language Testing Service CEF/ALTE Level: C1/4
 - MCSA / Microsoft Certified Server Administrator (Windows Server 2003)
 - MCDST / Microsoft Certified Desktop Support Technician (Windows XP)
 
-== SOCIAL
+=== SOCIAL
 - Student council / _Class 10 - 13_
 - Class representative / _Class 11 - 13_
 - Head boy / _Class 12 - 13_
@@ -65,7 +65,7 @@ Siemens Technik Akademie - _Munich, Germany_
 - Term speaker (Gamedesign)  MD.H Düsseldorf / _2010 - 2011_
 - Member of a multigeneration homes project / _2016 - Present_
 
-== AWARDS
+=== AWARDS
 - Honored for "Best technical bachelor thesis of the year" at the university.
 - Third place at the Game Forge Newcomer Award 2011.
 - Nominated for the best WebOS Health APP of 2011.
@@ -73,8 +73,8 @@ Siemens Technik Akademie - _Munich, Germany_
 
 
 <<<
-== SKILLS AND TECHNICAL EXPERIENCE
-[cols="h,m,m,m"  options="header"]
+=== SKILLS AND TECHNICAL EXPERIENCE
+[cols="h,n,n,n"  options="header"]
 |===
 |
 |Best
