@@ -25,7 +25,7 @@ September 2014 - Today +
 Düsseldorf, Germany +
 
 A startup company which was founded by my former professor. Its main focus is on e-commerce, with the goal to customize the shopping experience by smart predictions, and recommendations using BigData, Data Mining and Machine Learning tools. +
-I got to work with many unknown and most of the times bleeding edge tools and frameworks. optimizing code, writing algorithms from scratch, clustering of processing power and data analytics were the challenges I had to face during this job.
+I got to work with many and most of the times bleeding edge tools and frameworks. Designing algorithms from scratch, optimizing code, clustering of processing power and data analytics were the challenges I had to face during this job, in order to build a blazing fast and stable backend.
 
 === RockAByte GmbH
 November 2012 - September 2014 +
@@ -44,20 +44,20 @@ An iOS and Android App development agency with a strong focus on delivering nati
 August 2011 - December 2013 +
 Witten, Germany +
 
-An enterprise telephony solutions company where I worked in the QA department. There I learned to automate everything, with the help of an instrumentation testing framework developed in-house written in Java. +
+An enterprise telephony solutions company where I worked in the QA department. There I learned to automate everything, with the help of an instrumentation testing framework developed in-house written in Java, including testing of physical telephones, virtual telephones (sip), web frontends, manuals and client installations. +
 My line of work covered maintaining the framework, writing new test cases, developing a module for the framework to test web frontends with selenium and developing automated tests of installations on different operating systems with vSphere and a Java connector.
 
 === richtwert GmbH
 August 2011 - September 2012 +
 Düsseldorf, Germany +
 
-A consulting company which also delivers custom solutions for each and every customer if needed. I maintained one of these solutions written in Java GWT.
+A consulting company which also delivers custom solutions for each and every customer if needed. I maintained one of these solutions written in Java GWT. I had to refactor the code of the project, in order to update libraries, implement new features an resolve bugs.
 
 === Northlight Games
 October 2010 - September 2012 +
 Düsseldorf, Germany +
 
-A small company founded by 6 students (including me) at the md.h Düsseldorf. During our studies Northlight Games developed several functional complete games. Including https://razem.io/projects/northlight/GEAR/[*G.E.A.R*] which won the third price at the Game Forge Newcomer Award 2011 and https://razem.io/projects/northlight/hippoquest/[*HippoQuest*] which was a rather succesfull game (1000+ purchases) back in the day on WebOS.
+A small company founded by 6 students (including myself) at the md.h Düsseldorf. During our studies Northlight Games developed several functional complete Cross-Platform games. Including https://razem.io/projects/northlight/GEAR/[*G.E.A.R*] which won the third price at the Game Forge Newcomer Award 2011 and https://razem.io/projects/northlight/hippoquest/[*HippoQuest*] which was a rather succesfull game (1000+ purchases) back in the day on WebOS.
 
 === LIEBL Software
 March 2008 - December 2010 +
@@ -80,14 +80,15 @@ MD.H (Mediadesign Hochschule) in Düsseldorf, Germany 2010-2013
 
 NOTE: Honored for "Best technical bachelor thesis of the year" at the university.
 
-During the education I specialized on crossplatform and mobile development. Practical projects were always implemented in teamwork with other students, resulting in a strong understanding of how teams work and which technologies work best to collaborate.
+During the education I specialized on crossplatform and mobile development. Practical projects were always implemented in teamwork with other students, resulting in a strong understanding of how teams work and which technologies work best to collaborate. +
+My bachelor thesis focused on mobile Cross-Platform development with the topic: _The Development of a Porting-Pipeline Using the Example of ActionScript 3-Games on the Basis of Haxe-Language and OpenFL-Framework for Cross-Platform, Mobile Games_
 
 === Industrialtechnologist with emphasis on Data Technology
 STA (Siemens Technik Akademie) in Munich, Germany 2008-2010
 
 NOTE: A scholarship was granted by Siemens for the time of the education.
 
-The education had a strong focus on Java and Database development. Physics, Network Technology, Server Technology and Electrical Engineering were also thought.
+A dual study with a strong focus on Java and Database development. Physics, Network Technology, Server Technology and Electrical Engineering were also thought.
 
 === CERTIFICATES
 - Bullats / Business Language Testing Service CEF/ALTE Level: C1/4
@@ -146,20 +147,20 @@ Being very similar to the Java Syntax it is quite easy for me to write applicati
 
 === Build Tools
 ==== Gradle
-During my time at RockAByte I got to work a lot with the Gradle build tool because of the Android SDK. It is easy to learn, understand and works as expected.
+During my time at RockAByte I got to work a lot with the Gradle build tool because of the Android SDK. For me it was easy to learn, understand and works as expected.
 
 ==== SBT
-When programming in Scala it is almost impossible to use any other build tool. It is not as easy to understand as gradle but even more powerful. I use it whenever I can.
+When programming in Scala it is almost impossible to use any other build tool. For me it was not as easy to understand as Gradle but even more powerful. I use it whenever I can.
 
 ==== Maven
-I am not a fan of xml and the command line options have a steep learning curve compared to gradle or sbt. I am okay with it but would always choose gradle or sbt over maven if I have the chance to.
+I find xml hard to read and the command line options have a steep learning curve compared to Gradle or SBT. I am okay with it but would always choose Gradle or SBT over Maven if I have the chance to.
 
 === Source Code Versioning
 ==== Git
 My favourite versioning system. I am comfortable with the command-line and GUI options out there. When I am in charge of a project I also use git flow as an addition.
 
 ==== Mercurial
-I used Mercurial before I started using git, because GitBucket had no support for git back then. It is actually quite easy to use.
+I used Mercurial before I started using git, because GitBucket had no support for git back then. For me it is actually quite easy to use.
 
 ==== Subversion
 I used it a lot while working for Siemens. With a strict workflow it is easy to use even with large teams. However I would always favour Git or Mercurial if possible.
