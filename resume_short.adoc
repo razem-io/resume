@@ -1,7 +1,13 @@
-= Julian Liebl
-:published_at: 2016-06-06
-:hp-tags: resume, julian liebl, computer science, bachelor
+:authors: Julian Liebl
+:doctitle: Resume: Julian Liebl
+:published_at: 2016-06-15
+ifdef::backend-pdf[:notitle:]
+ifdef::backend-pdf[]
+[discrete]
+= {doctitle}
+endif::[]
 
+:hp-tags: resume, julian liebl, computer science, bachelor, java, scala, haxe
 
 NOTE: Last updated on *{docdate}*
 
