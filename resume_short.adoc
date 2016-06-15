@@ -15,8 +15,6 @@ http://codereview.stackexchange.com/users/90723/julian-liebl[@ *CODE REVIEW*] +
 http://www.slant.co/users/GG:113026379734376225768[@ *Slant*] +
 https://linkedin.com/in/julianliebl[@ *LinkedIn*], +
 
-===
-
 == WORK EXPERIENCE
 
 *09/2014 - Present:* Flinsta GmbH & Co. KG - _Düsseldorf, Germany_
@@ -59,7 +57,7 @@ Mediadesign Hochschule - _Düsseldorf, Germany_
 
 My bachelor thesis focused on mobile Cross-Platform development with the topic: _The Development of a Porting-Pipeline Using the Example of ActionScript 3-Games on the Basis of Haxe-Language and OpenFL-Framework for Cross-Platform, Mobile Games_
 
-*09/2008 - 09/2010* Industrialtechnologist with emphasis on Data Technology +
+*09/2008 - 09/2010* State certified Industrialtechnologist with emphasis on Data Technology +
 Siemens Technik Akademie - _Munich, Germany_
 
 === CERTIFICATES

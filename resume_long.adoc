@@ -17,7 +17,6 @@ http://www.slant.co/users/GG:113026379734376225768[@ *Slant*] +
 https://linkedin.com/in/julianliebl[@ *LinkedIn*], +
 
 
-
 == EXPERIENCE
 
 === Flinsta GmbH & Co. KG
@@ -83,7 +82,7 @@ NOTE: Honored for "Best technical bachelor thesis of the year" at the university
 During the education I specialized on crossplatform and mobile development. Practical projects were always implemented in teamwork with other students, resulting in a strong understanding of how teams work and which technologies work best to collaborate. +
 My bachelor thesis focused on mobile Cross-Platform development with the topic: _The Development of a Porting-Pipeline Using the Example of ActionScript 3-Games on the Basis of Haxe-Language and OpenFL-Framework for Cross-Platform, Mobile Games_
 
-=== Industrialtechnologist with emphasis on Data Technology
+=== State certified Industrialtechnologist with emphasis on Data Technology
 STA (Siemens Technik Akademie) in Munich, Germany 2008-2010
 
 NOTE: A scholarship was granted by Siemens for the time of the education.
