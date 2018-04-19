@@ -12,6 +12,5 @@ pipeline:
       - resume_short.pdf
     checksum:
       - sha512
-      -
     when:
       event: tag
