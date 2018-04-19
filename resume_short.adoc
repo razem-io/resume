@@ -15,12 +15,12 @@ NOTE: Last updated on *{docdate}*
 +49-163-7730387 +
 Macherscheider Str. 92, 41468 Neuss +
 mailto:mail@j-liebl.de[] +
-https://github.com/razem-io[@ *GitHub*], +
-http://stackoverflow.com/users/1029251/julian-liebl?tab=profile[@ *stackoverflow*], +
+https://github.com/razem-io[@ *GitHub*] +
+http://stackoverflow.com/users/1029251/julian-liebl?tab=profile[@ *stackoverflow*] +
 http://codereview.stackexchange.com/users/90723/julian-liebl[@ *CODE REVIEW*] +
 http://www.slant.co/users/GG:113026379734376225768[@ *Slant*] +
-https://linkedin.com/in/julianliebl[@ *LinkedIn*], +
-https://www.xing.com/profile/Julian_Liebl[@ *XING*], +
+https://linkedin.com/in/julianliebl[@ *LinkedIn*] +
+https://www.xing.com/profile/Julian_Liebl[@ *XING*] +
 
 == WORK EXPERIENCE
 
@@ -28,7 +28,7 @@ https://www.xing.com/profile/Julian_Liebl[@ *XING*], +
 
 Backend development to full extend. Working for Audi, Porsche and VW. Utilizing
 the power of functional programming using Scala for scalable, complex, high
-throughput and stable solutions. Building monitoring stacks to keep services 
+throughput and stable solutions. Building monitoring stacks to keep services
 running 24/7 with influxdb, elasticsearch, telegraf and prometheus by
 visualizing them in grafana or kibana. Working with Java 8 to keep legacy
 services running.
