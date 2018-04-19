@@ -10,7 +10,7 @@ pipeline:
       - asciidoctor-pdf resume_short.adoc
   github_release:
     image: plugins/github-release
-    api_key: $$GITHUB_TOKEN
+    secrets: [ github_token ]
     files:
       - resume_long.pdf
       - resume_short.pdf
