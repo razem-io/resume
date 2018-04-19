@@ -1,14 +1,17 @@
-build:
-  image: asciidoctor/docker-asciidoctor
-  commands:
-    - asciidoctor-pdf resume_long.adoc
-    - asciidoctor-pdf resume_short.adoc
-publish:
+pipeline:
+  build:
+    image: asciidoctor/docker-asciidoctor
+    commands:
+      - asciidoctor-pdf resume_long.adoc
+      - asciidoctor-pdf resume_short.adoc
   github_release:
+    image: plugins/github-release
     api_key: $$GITHUB_TOKEN
     files:
       - resume_long.pdf
       - resume_short.pdf
-    checksum: sha256
+    checksum:
+      - sha512
+      -
     when:
       event: tag
