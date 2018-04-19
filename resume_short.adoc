@@ -20,10 +20,20 @@ http://stackoverflow.com/users/1029251/julian-liebl?tab=profile[@ *stackoverflow
 http://codereview.stackexchange.com/users/90723/julian-liebl[@ *CODE REVIEW*] +
 http://www.slant.co/users/GG:113026379734376225768[@ *Slant*] +
 https://linkedin.com/in/julianliebl[@ *LinkedIn*], +
+https://www.xing.com/profile/Julian_Liebl[@ *XING*], +
 
 == WORK EXPERIENCE
 
-*09/2014 - Present:* Flinsta GmbH & Co. KG - _Düsseldorf, Germany_
+*12/2016 - Present:* Valtech GmbH - _Düsseldorf, Germany_
+
+Backend development to full extend. Working for Audi, Porsche and VW. Utilizing
+the power of functional programming using Scala for scalable, complex, high
+throughput and stable solutions. Building monitoring stacks to keep services 
+running 24/7 with influxdb, elasticsearch, telegraf and prometheus by
+visualizing them in grafana or kibana. Working with Java 8 to keep legacy
+services running.
+
+*09/2014 - 11/2016:* Flinsta GmbH & Co. KG - _Düsseldorf, Germany_
 
 I got to work with many and most of the times bleeding edge tools and frameworks. Designing algorithms from scratch, optimizing code, clustering of processing power and data analytics were the challenges I had to face during this job, in order to build a blazing fast and stable backend.
 

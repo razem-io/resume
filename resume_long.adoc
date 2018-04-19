@@ -20,11 +20,23 @@ http://stackoverflow.com/users/1029251/julian-liebl?tab=profile[@ *stackoverflow
 http://codereview.stackexchange.com/users/90723/julian-liebl[@ *CODE REVIEW*] +
 http://www.slant.co/users/GG:113026379734376225768[@ *Slant*] +
 https://linkedin.com/in/julianliebl[@ *LinkedIn*], +
+https://www.xing.com/profile/Julian_Liebl[@ *XING*], +
 
 == WORK EXPERIENCE
 
+=== Valtech GmbH
+December 2016 - Today +
+Düsseldorf, Germany +
+
+Backend development to full extend. Working for Audi, Porsche and VW. Utilizing
+the power of functional programming using Scala for scalable, complex, high
+throughput and stable solutions. Building monitoring stacks to keep services
+running 24/7 with influxdb, elasticsearch, telegraf and prometheus by
+visualizing them in grafana or kibana. Working with Java 8 to keep legacy
+services running.
+
 === Flinsta GmbH & Co. KG
-September 2014 - Today +
+September 2014 - November 2016 +
 Düsseldorf, Germany +
 
 A startup company which was founded by my former professor. Its main focus is on e-commerce, with the goal to customize the shopping experience by smart predictions, and recommendations using BigData, Data Mining and Machine Learning tools. +
