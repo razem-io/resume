@@ -1,3 +1,7 @@
+workspace:
+  base: /resume
+  path: src/github.com/razem-io/resume
+
 pipeline:
   build:
     image: asciidoctor/docker-asciidoctor
