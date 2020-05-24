@@ -3,7 +3,7 @@ type: docker
 name: default
 
 steps:
-  - build: stage
+  - name: build
     image: asciidoctor/docker-asciidoctor
     pull: always
     commands:
