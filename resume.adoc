@@ -1,30 +1,38 @@
-:authors: Julian Liebl
-:doctitle: Resume: Julian Liebl
-:published_at: 2016-06-15
+:authors: Julian Pieles
+:doctitle: Resume: Julian Pieles
+:published_at: 2020-05-24
 ifdef::backend-pdf[:notitle:]
 ifdef::backend-pdf[]
 [discrete]
 = {doctitle}
 endif::[]
 
-:hp-tags: resume, julian liebl, computer science, bachelor, java, scala, haxe
+:hp-tags: resume, julian pieles, computer science, bachelor, java, scala, haxe
 
 NOTE: Last updated on *{docdate}*
 
 == CONTACT
 +49-163-7730387 +
-Macherscheider Str. 92, 41468 Neuss +
-mailto:mail@j-liebl.de[] +
+Norfer Weg 105, 41468 Neuss +
+mailto:julian@pieles.digital[] +
 https://github.com/razem-io[@ *GitHub*] +
-http://stackoverflow.com/users/1029251/julian-liebl?tab=profile[@ *stackoverflow*] +
-http://codereview.stackexchange.com/users/90723/julian-liebl[@ *CODE REVIEW*] +
-http://www.slant.co/users/GG:113026379734376225768[@ *Slant*] +
-https://linkedin.com/in/julianliebl[@ *LinkedIn*] +
-https://www.xing.com/profile/Julian_Liebl[@ *XING*] +
+https://stackoverflow.com/users/1029251/julian-pieles?tab=profile[@ *stackoverflow*] +
+https://codereview.stackexchange.com/users/90723/julian-pieles[@ *CODE REVIEW*] +
+https://www.slant.co/users/GG:113026379734376225768[@ *Slant*] +
+https://www.linkedin.com/in/julianpieles/[@ *LinkedIn*] +
+https://www.xing.com/profile/Julian_Pieles2/cv[@ *XING*] +
 
 == WORK EXPERIENCE
 
-*12/2016 - Present:* Valtech GmbH - _Düsseldorf, Germany_
+*06/2018 - Present:* Valtech Mobility GmbH - _Düsseldorf, Germany_
+
+Backend development to full extend. Working for Audi, Porsche and VW. Utilizing
+the power of functional programming using Scala for scalable, complex, high
+throughput and stable solutions. Building monitoring stacks to keep services
+running 24/7 with influxdb, elasticsearch, telegraf and prometheus by
+visualizing them in grafana or kibana. Working occasionally with Java 8-11 to keep legacy services running.
+
+*12/2016 - 05/2018:* Valtech GmbH - _Düsseldorf, Germany_
 
 Backend development to full extend. Working for Audi, Porsche and VW. Utilizing
 the power of functional programming using Scala for scalable, complex, high
@@ -91,29 +99,44 @@ Siemens Technik Akademie - _Munich, Germany_
 |Medium
 
 |Programming Languages
-|Java 7 & 8, Scala 2.11, Haxe 2 & 3
+|Java 7 - 13, Scala 2.11 - 2.13, Haxe 2 & 3
 |Java 6, C#, JavaScript, CoffeeScript
 |C++
+
+|Frameworks
+|Play Framework
+|Akka, Guice, Scalatra, Semantic UI, Bootstrap
+|Spring
 
 |Databases
 |SQL, MongoDB, Elasticsearch, MapDB, OrientDB
 |Redis
 |Cassandra
 
+|Message Queues
+|Kafka
+|Kinesis
+|RabbitMQ
+
 |Operating Systems
 |Linux (arch and debian), macOS, Windows, Android
 |Linux (red hat)
-|iOS
+|iOS, ChromeOS
 
 |IDEs / Editors
-|IntelliJ IDEA, Eclipse, Atom, Nano
-|Emacs, Sublime 2 & 3
-|vi, vim
+|IntelliJ IDEA, Visual Studio Code, Eclipse, Atom, Nano
+|Sublime 2 & 3
+|Emacs, vi(m)
+
+|Configuration, Markup, Universal Formats
+|Markdown, AsciiDoc, Latex, HOCON, YAML, JSON, XML, JSON Schema
+|TOML
+|Protobuf
 
 |Platforms
 |Mobile (Android, Cross-Platform), Server Backend, Desktop
-|Web/REST
-|Web Frontend
+|Web/REST, Web Frontend
+|
 
 |Build Tools
 |Gradle, SBT
@@ -126,7 +149,7 @@ Siemens Technik Akademie - _Munich, Germany_
 |
 
 |Collaboration
-|Confluence, JIRA, Redmine, Slack
+|Confluence, JIRA, Redmine, Slack, Teams
 |Gitlab, Trac
 |
 
@@ -134,6 +157,21 @@ Siemens Technik Akademie - _Munich, Germany_
 |Jenkins, Drone, Docker
 |Gitlab CI
 |
+
+|DevOps
+|Docker, docker-compose
+|Kubernetes, Helm
+|Terraform
+
+|Selfhosting
+|Docker, docker-compose, Traefik, Nextcloud, Bitwarden, Elasticsearch, InfluxDB, Telegraf, Grafana, Kibana, Jitsi, BigBlueButton, mailcow, Mail-in-a-Box, Kanboard, Wordpress, Gitea
+|Drone, OpenLDAP, Portainer, Seafile, huginn
+|FileCloud, PiVPN
+
+|Home Automation
+|Home Assistant, RaspberryMatic (Homematic), Raspbee (Deconz)
+|OpenHAB, KNX
+|MQTT
 
 |Languages
 |German, English
@@ -148,4 +186,4 @@ Siemens Technik Akademie - _Munich, Germany_
 - Head boy / _Class 12 - 13_
 - Member of the student government in Düsseldorf / _2005 - 2007_
 - Term speaker (Gamedesign)  MD.H Düsseldorf / _2010 - 2011_
-- Member of a multigeneration homes project / _2016 - Present_
+- Member of a multigeneration homes project / _2016 - 2018_

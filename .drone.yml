@@ -6,14 +6,12 @@ pipeline:
   build:
     image: asciidoctor/docker-asciidoctor
     commands:
-      - asciidoctor-pdf resume_long.adoc
-      - asciidoctor-pdf resume_short.adoc
+      - asciidoctor-pdf resume.adoc
   github_release:
     image: plugins/github-release
     secrets: [ github_release_api_key ]
     files:
-      - resume_long.pdf
-      - resume_short.pdf
+      - resume.pdf
     checksum:
       - sha512
     when:

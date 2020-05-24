@@ -3,4 +3,4 @@ image::https://github.razem.io/api/badges/razem-io/resume/status.svg[Build Statu
 My current resume written in asciidoc. Releases are build and published by a selfhosted https://github.com/drone/drone[drone].
 
 === Download
-You can downloaded the lastest version as a pdf https://github.com/razem-io/resume/releases[here] or just view it on github https://github.com/razem-io/resume/blob/master/resume_short.adoc[short] / https://github.com/razem-io/resume/blob/master/resume_long.adoc[long].
+You can downloaded the lastest version as a pdf https://github.com/razem-io/resume/releases[here] or just view it on github https://github.com/razem-io/resume/blob/master/resume_short.adoc[here].
