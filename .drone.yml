@@ -1,15 +1,17 @@
-workspace:
-  base: /resume
-  path: src/github.com/razem-io/resume
+kind: pipeline
+type: docker
+name: default
 
-pipeline:
-  build:
+steps:
+  - build: stage
     image: asciidoctor/docker-asciidoctor
+    pull: always
     commands:
       - asciidoctor-pdf resume.adoc
-  github_release:
+  - name: github_releasey
     image: plugins/github-release
-    secrets: [ github_release_api_key ]
+    api_key:
+      from_secret: github_release_api_key
     files:
       - resume.pdf
     checksum:
