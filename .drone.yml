@@ -8,13 +8,14 @@ steps:
     pull: always
     commands:
       - asciidoctor-pdf resume.adoc
-  - name: github_releasey
+  - name: github_release
     image: plugins/github-release
-    api_key:
-      from_secret: github_release_api_key
-    files:
-      - resume.pdf
-    checksum:
-      - sha512
+    settings:
+      api_key:
+        from_secret: github_release_api_key
+      files:
+        - resume.pdf
+      checksum:
+        - sha512
     when:
       event: tag
