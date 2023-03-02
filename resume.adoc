@@ -24,7 +24,19 @@ https://www.xing.com/profile/Julian_Pieles2/cv[@ *XING*] +
 
 == WORK EXPERIENCE
 
-*06/2018 - Present:* Valtech Mobility GmbH - _Düsseldorf, Germany_
+*06/2022 - today:* HeadNap GmbH - _Monheim am Rhein, Germany_
+
+Developing workflow automation based on Scala and Scala.js for employees with the goal of facilitating tedious and error-prone tasks. 
+Having fun with automated statistical analysis and fundamental analysis in a large but modern Scala stack. 
+Integrating OpenAIs Whisper and Stable Diffusion stack into business applications being used in-House on a day-to-day basis.
+Automate everything around DevOps and IT.
+
+*10/2020 - 05/2022:* AYOXXA Biosystems GmbH - _Cologne, Germany_
+
+Working on the software which enables Ayoxxa's LUNARIS™ technology. The platform can generate high-quality proteomics data using the smallest sample volumes. It allows fully scalable quantitative validation of disease-relevant biomarkers and enables translational research.
+Everything from the customer-facing Desktop Software to the single board computer agent running inside the in-house designed scanner hardware is based on Scala. Optimizing high-performance image processing, controlling of robot microscopes, introducing monitoring and logging aggregation for further analytics while maintaining the self-hosted 100 TB+ server infrastructure with a team of 4 people.
+
+*06/2018 - 09/2020:* Valtech Mobility GmbH - _Düsseldorf, Germany_
 
 Backend development to full extend. Working for Audi, Porsche and VW. Utilizing
 the power of functional programming using Scala for scalable, complex, high
@@ -45,7 +57,7 @@ services running.
 
 I got to work with many and most of the times bleeding edge tools and frameworks. Designing algorithms from scratch, optimizing code, clustering of processing power and data analytics were the challenges I had to face during this job, in order to build a blazing fast and stable backend.
 
-*11/2012 - 09/2014:* RockAByte GmbH - _Cologne, Germany_
+*11/2012 - 08/2014:* RockAByte GmbH - _Cologne, Germany_
 
 My prior experiences with WebOS, Haxe and Java lead to a focus on Android and native crossplatform development. During the time at RockAByte I worked on many different projects.
 
@@ -99,43 +111,43 @@ Siemens Technik Akademie - _Munich, Germany_
 |Medium
 
 |Programming Languages
-|Java 7 - 13, Scala 2.11 - 2.13, Haxe 2 & 3
-|Java 6, C#, JavaScript, CoffeeScript
-|C++
+|Java 7 - 19, Scala 2.11 - 2.13, Haxe 2 & 3
+|C#, JavaScript, CoffeeScript
+|Python, C++
 
 |Frameworks
-|Play Framework
+|Play Framework, Laminar
 |Akka, Guice, Scalatra, Semantic UI, Bootstrap
 |Spring
 
 |Databases
-|SQL, MongoDB, Elasticsearch, MapDB, OrientDB
+|SQL, MongoDB, Elasticsearch, MapDB, OrientDB, InfluxDB
 |Redis
 |Cassandra
 
 |Message Queues
-|Kafka
+|Kafka, MQTT
 |Kinesis
 |RabbitMQ
 
 |Operating Systems
-|Linux (arch and debian), macOS, Windows, Android
-|Linux (red hat)
-|iOS, ChromeOS
+|Linux (arch, alpine, debian), macOS, Windows, Android, iOS, ChromeOS
+|Linux (Red Hat, CentOS), FreeBSD (TrueNAS), OpenSolaris (SmartOS) 
+|
 
 |IDEs / Editors
-|IntelliJ IDEA, Visual Studio Code, Eclipse, Atom, Nano
+|IntelliJ IDEA, Visual Studio Code, Nano
 |Sublime 2 & 3
 |Emacs, vi(m)
 
 |Configuration, Markup, Universal Formats
-|Markdown, AsciiDoc, Latex, HOCON, YAML, JSON, XML, JSON Schema
+|JSON Schema, Protobuf, gRPC, Markdown, AsciiDoc, Latex, HOCON, YAML, JSON, XML
 |TOML
 |Protobuf
 
 |Platforms
-|Mobile (Android, Cross-Platform), Server Backend, Desktop
-|Web/REST, Web Frontend
+|Server Backend, Web/REST, Web Frontend
+|Mobile (Android, Cross-Platform), Desktop
 |
 
 |Build Tools
@@ -149,29 +161,29 @@ Siemens Technik Akademie - _Munich, Germany_
 |
 
 |Collaboration
-|Confluence, JIRA, Redmine, Slack, Teams
+|Confluence, JIRA, Redmine, BookStack, Slack, Teams
 |Gitlab, Trac
 |
 
 |Continuous Integration
-|Jenkins, Drone, Docker
+|Jenkins, Drone
 |Gitlab CI
 |
 
 |DevOps
-|Docker, docker-compose
+|Docker, docker-compose, Prometheus, ELK-Stack, Telegraf
 |Kubernetes, Helm
 |Terraform
 
 |Selfhosting
-|Docker, docker-compose, Traefik, Nextcloud, Bitwarden, Elasticsearch, InfluxDB, Telegraf, Grafana, Kibana, Jitsi, BigBlueButton, mailcow, Mail-in-a-Box, Kanboard, Wordpress, Gitea
+|Docker, docker-compose, Traefik, Nextcloud, Bitwarden/Vaultwarden, Elasticsearch, InfluxDB, Telegraf, Grafana, Kibana, Jitsi, BigBlueButton, mailcow, Mail-in-a-Box, Kanboard, Wordpress, Gitea, BookStack, Monica, PiVPN, blocky
 |Drone, OpenLDAP, Portainer, Seafile, huginn
-|FileCloud, PiVPN
+|FileCloud
 
 |Home Automation
-|Home Assistant, RaspberryMatic (Homematic), Raspbee (Deconz)
+|Home Assistant, RaspberryMatic (Homematic), Raspbee (Deconz), MQTT
 |OpenHAB, KNX
-|MQTT
+|
 
 |Languages
 |German, English
